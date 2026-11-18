@@ -1,0 +1,9 @@
+# Local setup / editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+*.log
+db.php
